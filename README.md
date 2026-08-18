@@ -22,7 +22,7 @@
 
 ---
 
-### ⚡ // Executando perfil.js
+### ⚡ // AboutMe.js
 
 ```javascript
 /**
