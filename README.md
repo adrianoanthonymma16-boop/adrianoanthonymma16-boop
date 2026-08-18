@@ -1,10 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Adriano+Anthony;Militar+%7C+Engenharia+de+Software;Foco%3A+Full-Stack+-%3E+DevOps;Disciplina%2C+curiosidade+e+prop%C3%B3sito" alt="Typing Animation" />
-</div>
+  <!-- Typing Animation Banner -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Adriano+Anthony+%7C+Software+Engineer;Full-Stack+-%3E+DevOps+Engineer;Disciplina.+Curiosidade.+Prop%C3%B3sito.;Militar+%2B+Developer+%3D+Alta+Performance" alt="Typing Header" />
 
-<div align="center">
+  <br/>
+
+  <!-- Social & Status Badges -->
   <a href="mailto:adrianoanthonymma16@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-140F24?style=for-the-badge&logo=gmail&logoColor=7C3AED" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-140F24?style=for-the-badge&logo=gmail&logoColor=7C3AED" alt="Email" />
   </a>
   <a href="https://wa.me/5593981275587" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-140F24?style=for-the-badge&logo=whatsapp&logoColor=7C3AED" alt="WhatsApp" />
@@ -12,21 +14,38 @@
   <a href="https://github.com/adrianoanthonymma16-boop?tab=followers">
     <img src="https://img.shields.io/github/followers/adrianoanthonymma16-boop?style=for-the-badge&logo=github&color=140F24&logoColor=7C3AED&label=Seguidores" alt="Followers" />
   </a>
+  <img src="https://img.shields.io/badge/Location-Santar%C3%A9m--PA-140F24?style=for-the-badge&logo=googlemaps&logoColor=B91C1C" alt="Location" />
+
 </div>
 
 <br/>
 
-## 👨‍💻 Sobre mim
+---
+
+### ⚡ // Executando perfil.js
 
 ```javascript
-const adriano = {
-  nome: "Adriano Anthony",
-  idade: 21,
-  cidade: "Santarém - PA",
-  formacao: "Engenharia de Software (em andamento)",
-  profissao: "Militar",
-  inicioNaProgramacao: 2026,
-  paixao: "Tecnologia",
-  objetivo: ["Full-Stack", "DevOps"],
-  essencia: "Disciplina, curiosidade e propósito"
+/**
+ * @file Overview.js
+ * @developer Adriano Anthony
+ */
+
+const developer = {
+  identity: {
+    nome: "Adriano Anthony",
+    idade: 21,
+    localizacao: "Santarém - PA",
+    background: "Militar"
+  },
+  academico: {
+    curso: "Engenharia de Software",
+    status: "Em andamento",
+    inicioProgramacao: 2026
+  },
+  carreira: {
+    focoAtual: "Full-Stack Development",
+    objetivoFinal: "DevOps & Systems Architecture",
+    paixao: "Tecnologia & Inovação"
+  },
+  valores: ["Disciplina", "Curiosidade", "Propósito"]
 };
