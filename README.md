@@ -40,7 +40,7 @@ const developer = {
   academico: {
     curso: "Engenharia de Software",
     status: "Em andamento",
-    inicioProgramacao: 2026
+    inicioProgramacao: 2025
   },
   carreira: {
     focoAtual: "Full-Stack Development",
