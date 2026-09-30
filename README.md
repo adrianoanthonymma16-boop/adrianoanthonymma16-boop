@@ -2,25 +2,25 @@
 
 # Adriano Anthony
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=720&lines=Transpar%C3%ADncia+pol%C3%ADtica+com+dados+p%C3%BAblicos;Engenharia+de+Software+%40+Uninter;Full-stack+%E2%86%92+Node+%C2%B7+TypeScript+%C2%B7+React" alt="Adriano Anthony — transparência política" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1200&color=7A7BB0&center=true&vCenter=true&width=700&lines=Transpar%C3%ADncia+pol%C3%ADtica+com+dados+p%C3%BAblicos;Engenharia+de+Software+%40+Uninter;Full-stack+%E2%86%92+Node+%C2%B7+TypeScript+%C2%B7+React" alt="Adriano Anthony — transparência política com dados públicos" />
 
 <br/>
 
 <a href="https://como-votei.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/%E2%9A%A0%EF%B8%8F%20Como%20Votei%20no%20ar-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Como Votei — no ar" />
+  <img src="https://img.shields.io/badge/%E2%9A%A0%EF%B8%8F%20Como%20Votei%20%E2%80%94%20no%20ar-DFE7F9?style=flat-square&logo=vercel&logoColor=original" alt="Como Votei — no ar" />
 </a>
 <a href="https://www.linkedin.com/in/adriano-anthony-202951358" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-E8EEF7?style=flat-square&logo=linkedin&logoColor=original" alt="LinkedIn" />
 </a>
 <a href="mailto:adrianoanthonymma16@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/E--mail-140F24?style=for-the-badge&logo=gmail&logoColor=7C3AED" alt="E-mail" />
+  <img src="https://img.shields.io/badge/E--mail-F1EFF6?style=flat-square&logo=gmail&logoColor=original" alt="E-mail" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/reposit%C3%B3rios-17-7C3AED?style=flat-square&logo=github&logoColor=white" alt="17 repositórios" />
-<img src="https://img.shields.io/badge/seguidores-6-7C3AED?style=flat-square&logo=github&logoColor=white" alt="6 seguidores" />
-<img src="https://img.shields.io/badge/no%20GitHub%20desde-janeiro%20de%202026-7C3AED?style=flat-square&logo=github&logoColor=white" alt="No GitHub desde janeiro de 2026" />
+<img src="https://img.shields.io/badge/17%20reposit%C3%B3rios-F3F1F8?style=flat-square&logo=github&logoColor=original" alt="17 repositórios" />
+<img src="https://img.shields.io/badge/6%20seguidores-F3F1F8?style=flat-square&logo=github&logoColor=original" alt="6 seguidores" />
+<img src="https://img.shields.io/badge/desde%20janeiro%20de%202026-F3F1F8?style=flat-square&logo=github&logoColor=original" alt="No GitHub desde janeiro de 2026" />
 
 </div>
 
@@ -74,7 +74,7 @@ para quem quiser conferir.
 
 | Projeto | O que é | Stack |
 | :--- | :--- | :--- |
-| **[AutoDoc](https://github.com/adrianoanthonymma16-boop/autodoc)**<br>⭐ 1 · MIT | Gerador automático de documentos ODT/DOCX com OCR. Desenha um retângulo, aponta o campo, o sistema preenche o resto. 100% offline. | `Python 3.10`<br>`CustomTkinter`<br>`Tesseract`<br>`pytest` |
+| **[AutoDoc](https://github.com/adrianoanthonymma16-boop/autodoc)**<br>⭐ 1 · MIT | Gerador automático de documentos ODT/DOCX com OCR. Você desenha um retângulo, aponta o campo, e o sistema preenche o resto. 100% offline. | `Python 3.10`<br>`CustomTkinter`<br>`Tesseract`<br>`pytest` |
 | **[Seu Político](https://github.com/adrianoanthonymma16-boop/seu-politico)**<br>arquivado | Análise de gastos públicos em JavaScript puro. Descontinuado por minha parte — o Como Votei é a versão atual. | `JavaScript`<br>`PostgreSQL`<br>`Chart.js` |
 
 **AutoDoc** é daqui que vem meu interesse em automatizar trabalho manual. **16 bugs
@@ -87,7 +87,7 @@ escolhíveis (ttkbootstrap e CustomTkinter).
 
 <table>
 <tr>
-<td><strong>📖 Curso</strong></td>
+<td width="140"><strong>📖 Curso</strong></td>
 <td>Engenharia de Software @ Uninter</td>
 </tr>
 <tr>
@@ -124,10 +124,10 @@ escolhíveis (ttkbootstrap e CustomTkinter).
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fadriano--anthony--202951358-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-anthony-202951358)
-[![E-mail](https://img.shields.io/badge/adrianoanthonymma16@gmail.com-140F24?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrianoanthonymma16@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-adrianoanthonymma16--boop-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adrianoanthonymma16-boop)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5593981275587)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E8EEF7?style=flat-square&logo=linkedin&logoColor=original)](https://www.linkedin.com/in/adriano-anthony-202951358)
+[![E-mail](https://img.shields.io/badge/adrianoanthonymma16@gmail.com-F1EFF6?style=flat-square&logo=gmail&logoColor=original)](mailto:adrianoanthonymma16@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-F3F1F8?style=flat-square&logo=github&logoColor=original)](https://github.com/adrianoanthonymma16-boop)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-E3F3EC?style=flat-square&logo=whatsapp&logoColor=original)](https://wa.me/5593981275587)
 
 </div>
 
