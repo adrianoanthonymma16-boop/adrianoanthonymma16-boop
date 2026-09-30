@@ -28,7 +28,7 @@
 
 ---
 
-## 🇧🇷 Transparência política com dados públicos
+## <img src="https://raw.githubusercontent.com/adrianoanthonymma16-boop/adrianoanthonymma16-boop/main/assets/icons/dados.svg" width="18" height="18" align="absmiddle" alt="" /> Transparência política com dados públicos
 
 Construo ferramentas que pegam **dados públicos do Congresso brasileiro** e respondem
 uma pergunta que qualquer cidadão faz, mas quase ninguém consegue responder sozinho:
@@ -44,7 +44,7 @@ para quem quiser conferir.
 
 <br/>
 
-## 🏛️ Projeto em destaque
+## <img src="https://raw.githubusercontent.com/adrianoanthonymma16-boop/adrianoanthonymma16-boop/main/assets/icons/congresso.svg" width="18" height="18" align="absmiddle" alt="" /> Projeto em destaque
 
 <table>
 <tr>
@@ -70,11 +70,11 @@ para quem quiser conferir.
 
 <br/>
 
-## 📄 Antes do full stack
+## <img src="https://raw.githubusercontent.com/adrianoanthonymma16-boop/adrianoanthonymma16-boop/main/assets/icons/documento.svg" width="18" height="18" align="absmiddle" alt="" /> Antes do full stack
 
 | Projeto | O que é | Stack |
 | :--- | :--- | :--- |
-| **[AutoDoc](https://github.com/adrianoanthonymma16-boop/autodoc)**<br>⭐ 1 · MIT | Gerador automático de documentos ODT/DOCX com OCR. Você desenha um retângulo, aponta o campo, e o sistema preenche o resto. 100% offline. | `Python 3.10`<br>`CustomTkinter`<br>`Tesseract`<br>`pytest` |
+| **[AutoDoc](https://github.com/adrianoanthonymma16-boop/autodoc)**<br>1 estrela · MIT | Gerador automático de documentos ODT/DOCX com OCR. Você desenha um retângulo, aponta o campo, e o sistema preenche o resto. 100% offline. | `Python 3.10`<br>`CustomTkinter`<br>`Tesseract`<br>`pytest` |
 | **[Seu Político](https://github.com/adrianoanthonymma16-boop/seu-politico)**<br>arquivado | Análise de gastos públicos em JavaScript puro. Descontinuado por minha parte — o Como Votei é a versão atual. | `JavaScript`<br>`PostgreSQL`<br>`Chart.js` |
 
 **AutoDoc** é daqui que vem meu interesse em automatizar trabalho manual. **16 bugs
@@ -83,26 +83,26 @@ escolhíveis (ttkbootstrap e CustomTkinter).
 
 <br/>
 
-## 🎓 Agora
+## <img src="https://raw.githubusercontent.com/adrianoanthonymma16-boop/adrianoanthonymma16-boop/main/assets/icons/formacao.svg" width="18" height="18" align="absmiddle" alt="" /> Agora
 
 <table>
 <tr>
-<td width="140"><strong>📖 Curso</strong></td>
+<td width="140"><strong>Curso</strong></td>
 <td>Engenharia de Software @ Uninter</td>
 </tr>
 <tr>
-<td><strong>🛠️ Foco</strong></td>
+<td><strong>Foco</strong></td>
 <td>Desenvolvimento web full-stack pela DIO — Node.js, TypeScript, HTML, CSS e React</td>
 </tr>
 <tr>
-<td><strong>⚙️ Metodologia</strong></td>
+<td><strong>Metodologia</strong></td>
 <td><a href="https://github.com/adrianoanthonymma16-boop/opencode-agents">opencode-agents</a> — meu <code>AGENTS.md</code> e 23 skills de engenharia (Python, SQL, reaproveitamento) rodando comigo no dia a dia</td>
 </tr>
 </table>
 
 <br/>
 
-## 🧰 Stack
+## <img src="https://raw.githubusercontent.com/adrianoanthonymma16-boop/adrianoanthonymma16-boop/main/assets/icons/ferramentas.svg" width="18" height="18" align="absmiddle" alt="" /> Stack
 
 <div align="center">
 
@@ -120,7 +120,7 @@ escolhíveis (ttkbootstrap e CustomTkinter).
 
 <br/>
 
-## 📬 Contato
+## <img src="https://raw.githubusercontent.com/adrianoanthonymma16-boop/adrianoanthonymma16-boop/main/assets/icons/contato.svg" width="18" height="18" align="absmiddle" alt="" /> Contato
 
 <div align="center">
 
@@ -137,7 +137,7 @@ escolhíveis (ttkbootstrap e CustomTkinter).
 
 <div align="center">
 
-### ⚡ // sobre.js
+### <img src="https://raw.githubusercontent.com/adrianoanthonymma16-boop/adrianoanthonymma16-boop/main/assets/icons/raio.svg" width="18" height="18" align="absmiddle" alt="" /> // sobre.js
 
 ```javascript
 /**
