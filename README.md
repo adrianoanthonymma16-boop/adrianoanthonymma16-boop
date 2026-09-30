@@ -47,7 +47,7 @@ Transparência legislativa: como deputados e senadores votam, falam e aprovam no
 - **Logs estruturados** (pino) e métrica de dado desatualizado por fonte
 - Deploy na Vercel, 100% em free tier
 
-## Antes do front-end
+## Antes do full stack
 
 ### 📄 [AutoDoc](https://github.com/adrianoanthonymma16-boop/autodoc)
 
